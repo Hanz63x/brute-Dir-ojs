@@ -8,7 +8,7 @@ echo "
 | | | |_  | \___ \  ./Hanz Ft DimasHxR
 | |_| | |_| |___) |
  \___/ \___/|____/  Directory Brute\n\n";
-$pat = array("/files/","/file/","/journals/","/journal/","/jurnal/","/jurnals/",
+$pat = array("/datafiles","/homefiles","/journal","/files/","/file/","/journals/","/journal/","/jurnal/","/jurnals/",
 "/jurnal_file","/jurnal_files/","/jurnal_data_file/","/jurnal_data_files/",
 "/jurnalfile/","/jurnal_dat0_file/","/jurnalfiles/","/jurnaldatafile/","/jurnaldatafiles/","/data/",
 "/datafile/","/datafiles/","/journalfile/","/journalfiles/","/journal_file/","/journal_files/",
